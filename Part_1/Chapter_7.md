@@ -14,7 +14,7 @@
 
 其结构示意图如下所示：
 
-<img src="img/6_1.png" />
+<img src="img/7_1.png" />
 
 其中：
 
@@ -30,7 +30,7 @@
 
 `entry`的结构如下所示：
 
-<img src="img/6_2.png" />
+<img src="img/7_2.png" />
 
 其中：
 
