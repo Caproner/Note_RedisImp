@@ -36,6 +36,7 @@ typedef struct redisDb {
 struct redisServer {
   redisDb *db;
   int dbnum;
+  // ...
 };
 ```
 
@@ -64,6 +65,7 @@ Redis的数据库客户端的本质为一个指向当前所在的服务端数据
 ```c
 typedef struct redisClient {
   redisDb *db;
+  // ...
 }redisClient;
 ```
 
